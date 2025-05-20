@@ -1,15 +1,23 @@
 var i=0;
 setInterval(function(){
     var titles=[
-"|C|",
-"|Cr|",
-"|Crm|",
-"|Crmn|",
-"|Crmnl|",
-"|Crmn|",
-"|Crm|",
-"|Cr|",
-"|C|",
+"|n|",
+"|nn|",
+"|nn$|",
+"|nn$t|",
+"|nn$to|",
+"|nn$tom|",
+"|nn$tomp|",
+"|nn$tompe|",
+"|nn$tomper|",
+"|nn$tompe|",
+"|nn$tomp|"
+"|nn$tom|",
+"|nn$to|",
+"|nn$t|",
+"|nn$|",
+"|nn|",
+"|n|",
 "||",
 ]
 
