@@ -1,6 +1,6 @@
 $(function() {
-    var tKillNames = ["Crmnl#6237", "Crmnl#6237", "Crmnl#6237", "Crmnl#6237", "Crmnl#6237", "Crmnl#6237", "Crmnl#6237", "Crmnl#6237", "Crmnl#6237", "Crmnl#6237", "Crmnl#6237", "Crmnl#6237", "Crmnl#6237"];
-    var ctKillNames = ["Leaked"]; 
+    var tKillNames = ["zainqwo", "deargwk"];
+    var ctKillNames = ["nn"]; 
     var weapons = ["ssg", "deagle", "awp", "g3sg1" /*,  "m4a4"*/];
     var $killFeedContainer = $('.kill-feed');
     var $killFeedElement = $('.kill-feed > div').hide();
